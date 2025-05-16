@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://meadlermoris.github.io/mylearning/sitemap.xml
